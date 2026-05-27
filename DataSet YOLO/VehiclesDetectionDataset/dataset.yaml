@@ -1,0 +1,14 @@
+path : 'E:\DataSet YOLO\VehiclesDetectionDataset\data'
+train: images\train
+val: images\valid
+
+
+names :
+  0: Ambulance
+  1: Bus
+  2: Car
+  3: Motorcycle
+  4: Truck
+
+#roboflow:
+  #url: https://universe.roboflow.com/roboflow-gw7yv/vehicles-openimages/dataset/1
