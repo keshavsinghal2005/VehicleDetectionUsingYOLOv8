@@ -7,6 +7,10 @@ Vehicle Detection Using YOLOv8 is a real-time computer vision system designed fo
 The system provides an interactive AI-powered detection interface capable of processing traffic surveillance footage and generating real-time detection outputs for transportation analytics and smart monitoring applications.
 
 
+# Deployed Project Link
+
+https://vehicledetectionusingyolov8.streamlit.app/
+
 
 #  Features
 
